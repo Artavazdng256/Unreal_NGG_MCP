@@ -447,9 +447,9 @@ These endpoints are driven in Python via `/editor/exec_python` under the hood, b
 
 ![Capabilities across every editor system — assets & reflection, Blueprint graphs, levels & actors, UMG, materials, Niagara, animation, mesh composition, PCG, Enhanced Input, gameplay tags, batch](Docs/images/03-capabilities.png)
 
-The `ue5-ngg` MCP server exposes 138 tools grouped into categories (editor lifecycle, assets, blueprints, BP graph authoring, UMG widgets, levels/actors, input, materials, animation, Niagara VFX, mesh composition, PCG, ADL, misc).
+The `ue5-ngg` MCP server exposes 171 tools grouped into categories (editor lifecycle, assets, blueprints, BP graph authoring, UMG widgets, levels/actors, input, materials, animation, Niagara VFX, mesh composition, PCG, sequencer, audio, DataTables, GAS, viewport/PIE feedback, ADL, misc).
 
-![138 tools, one MCP server — the full catalog grouped by system](Docs/images/07-all-138-tools.png)
+![171 tools, one MCP server — the full catalog grouped by system](Docs/images/07-all-171-tools.png)
 
 The **authoritative, always-current list** lives in the MCP server README:
 
